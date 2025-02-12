@@ -1,0 +1,4 @@
+build
+password_creator.egg-info
+.env
+.venv
