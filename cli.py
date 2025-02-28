@@ -22,7 +22,7 @@ options = [
 @click.group()
 def cli():
     """
-    -------------------- COMPRES SV --------------------\n
+    --------------------WELCOME --------------------\n
     DESCIPTION - create password and its hash\n
     DETAILS - The hash method used on this CLI is SHA256"""
     pass
